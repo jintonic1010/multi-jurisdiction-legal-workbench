@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "next_sequence": 2,
+  "index_revision": 1,
+  "ideas": [
+    {
+      "id": "IDEA-000001",
+      "title": "다국가 법률 AI 기반 해외사업 진출 법률설계 및 현지 실행지원 Capability",
+      "path": "ideas/cross-border-business-entry-legal-capability.md",
+      "decision_status": "undecided",
+      "authority_status": "partially_reflected",
+      "implementation_status": "not_started",
+      "route": "project_direction_update",
+      "workflow_status": "awaiting_project_direction_update",
+      "related_requirement_ids": [
+        "MJLW-REQ-003",
+        "MJLW-REQ-004",
+        "MJLW-REQ-005",
+        "MJLW-REQ-006",
+        "MJLW-REQ-008",
+        "MJLW-REQ-009",
+        "MJLW-REQ-014",
+        "MJLW-REQ-015",
+        "MJLW-REQ-017",
+        "MJLW-REQ-022"
+      ],
+      "related_plan_sections": [],
+      "reflected_in": [
+        "PRODUCT_REQUIREMENTS.md:MJLW-REQ-003",
+        "PRODUCT_REQUIREMENTS.md:MJLW-REQ-005",
+        "PRODUCT_REQUIREMENTS.md:MJLW-REQ-006",
+        "PRODUCT_REQUIREMENTS.md:MJLW-REQ-008",
+        "PRODUCT_REQUIREMENTS.md:MJLW-REQ-009",
+        "PRODUCT_REQUIREMENTS.md:MJLW-REQ-014",
+        "PRODUCT_REQUIREMENTS.md:MJLW-REQ-015",
+        "ARCHITECTURE_BRIEF.md:4",
+        "ARCHITECTURE_BRIEF.md:6.H",
+        "ARCHITECTURE_BRIEF.md:8"
+      ],
+      "implementation_commits": [],
+      "verification_evidence": [],
+      "relationships": {
+        "conflicts_with": [],
+        "depends_on": [],
+        "blocks": [],
+        "supersedes": [],
+        "superseded_by": null,
+        "merged_into": null
+      },
+      "last_evaluated_against": {
+        "requirements_ref": "adcbd5a62ef1248f5af40502833d3c0ec4a785cc",
+        "architecture_ref": "adcbd5a62ef1248f5af40502833d3c0ec4a785cc",
+        "plan_ref": "",
+        "source_ref": "adcbd5a62ef1248f5af40502833d3c0ec4a785cc",
+        "idea_index_revision": 1
+      },
+      "needs_recheck": true,
+      "next_action": "Decide whether to adopt the Business Entry Legal Capability into project direction and requirements before planning or implementation."
+    }
+  ]
+}
